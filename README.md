@@ -1,0 +1,1 @@
+# user-detail-by-structure
